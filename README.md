@@ -1,5 +1,5 @@
 
-# [Dense Reward for Free in Reinforcement Learning from Human Preferences](https://openreview.net/forum?id=eyxVRMrZ4m)
+# [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://openreview.net/forum?id=eyxVRMrZ4m)
 
 ### Alex J. Chan, Hao Sun, Samuel Holt, and Mihaela van der Schaar
 
