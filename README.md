@@ -23,6 +23,8 @@ git clone https://github.com/XanderJC/attention-based-credit.git
 
 cd attention-based-credit
 
+pip install -r requirements.txt
+
 pip install -e .
 ```
 
